@@ -4,4 +4,6 @@ def hi_there():
     print("HI")
 
 def hi_there():
-    print("My local change")
+    print("Updated phython function with merge conflict")
+    
+
